@@ -3,7 +3,7 @@ import sys
 import subprocess
 
 # Configurações do repositório
-REPO_URL = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/"
+REPO_URL = "https://raw.githubusercontent.com/Math14s/Teste/main/"
 VERSION_FILE = "version.txt"
 GAME_FILE = "game.py"
 
